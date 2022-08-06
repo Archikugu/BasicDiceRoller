@@ -1,6 +1,6 @@
 # Diceroller
 
-Basic Dice Roller
+Flutter Basic Dice Roller
 
 ## Getting Started
 
