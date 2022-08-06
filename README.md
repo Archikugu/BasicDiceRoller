@@ -1,4 +1,4 @@
-# diceroller
+# Diceroller
 
 A new Flutter project.
 
