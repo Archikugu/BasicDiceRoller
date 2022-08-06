@@ -1,6 +1,6 @@
 # Diceroller
 
-A new Flutter project.
+Basic Dice Roller
 
 ## Getting Started
 
